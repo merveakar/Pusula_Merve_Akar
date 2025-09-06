@@ -1,3 +1,8 @@
+Merve Akar
+05422206614
+merveakar2506@gmail.com
+
+
 # 🩺 Physical Medicine & Rehabilitation Dataset Analysis
 
 A complete end-to-end analysis pipeline for the Physical Medicine & Rehabilitation dataset, including **Exploratory Data Analysis (EDA)**, **data preprocessing**, and **model-ready dataset generation**.
